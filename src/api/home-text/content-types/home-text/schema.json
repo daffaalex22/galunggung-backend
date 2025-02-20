@@ -122,6 +122,14 @@
           "localized": true
         }
       }
+    },
+    "textCopiedToast": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
     }
   }
 }
